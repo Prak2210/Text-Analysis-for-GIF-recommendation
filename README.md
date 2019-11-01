@@ -1,4 +1,4 @@
-# CSC-522_P03_GIF-Prediction
+# GIF-Prediction
 ## Flow Diagram of the system
 <img width="1422" alt="screen shot 2019-04-26 at 2 49 46 pm" src="https://media.github.ncsu.edu/user/10114/files/9640e680-6832-11e9-9228-9c567c94b80b">
 
